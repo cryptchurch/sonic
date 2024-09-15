@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/dxzenith/Sonic-Network-Bot/main/sonic.sh && touch privatekeys.txt && nano privatekeys.txt
+chmod +x sonic.sh && ./sonic.sh
